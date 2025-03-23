@@ -21,7 +21,7 @@ Este projeto é uma landing page do **Snitap Patins**, uma marca inovadora de pa
 
 ---
 
-![image](https://github.com/user-attachments/assets/032e858e-bd39-49ba-bdf7-378d97ad7709)
+![image](https://github.com/user-attachments/assets/763f2cf1-5e2d-4b8f-9981-50ae5ce30a4e)
 
 ---
 
